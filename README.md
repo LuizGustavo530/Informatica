@@ -27,12 +27,6 @@ Sprint | Previsão | Status| Histórico|
 |04| dd/mm/aaaa |
 |Feira de Soluções|dd/mm/aaaa 
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
 
 # Equipe
