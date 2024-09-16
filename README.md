@@ -9,18 +9,16 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 # Índice
 
-* Conceitos de hardware e software
-* Sistema Operacional
-* Redes e Sistema Distribuídos
-* Segurança da Informação
-* Internet
-* Editor de Texto
-* Editor de Apresentações
-* Editor de Planilhas
-* Banco de Dados
-* Criação de Home Pages
-* Outras Tecnologia e Ferramentas de Interesse
-  
+* [Projeto](#projeto-template)
+* [Micro Certificações](#badges)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Burndown](#Burndown)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
 # Projeto Informática (GPI)
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
 
