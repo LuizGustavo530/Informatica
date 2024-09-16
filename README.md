@@ -3,7 +3,8 @@
 # Aprendizado Informática FATEC - São José dos Campos 
 
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
+Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribuídos. Segurança da Informação. Internet. Editor de Texto. Editor de Apresentações. Editor de Planilhas. Banco de Dados. Criação de Home Pages. Outras Tecnologia e Ferramentas de Interesse
+ 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
