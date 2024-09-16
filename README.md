@@ -34,11 +34,18 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
+
+* Conceitos de hardware e software
 * Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Sistema Operacional
+* Redes e Sistema Distribuídos.
+* Segurança da Informação
+* Internet. Editor de Texto
+*  Editor de Apresentações
+* Editor de Planilhas.
+* Banco de Dados
+* Criação de Home Pages
+* Outras Tecnologia e Ferramentas de Interesse
 
 
 ## Soft Skill (saber comportamental)
