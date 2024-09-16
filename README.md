@@ -27,10 +27,10 @@ Identificar e utilizar os recursos básicos ou avançados em ferramentas adequad
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | dd/mm/aaaa | 
-|01 | dd/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
+|01 | dd/mm/aaaa | 
+|02|  dd/mm/aaaa| 
+|03| dd/mm/aaaa |
+|04| dd/mm/aaaa |
 |Feira de Soluções|dd/mm/aaaa 
 
 # Micro Certificações
