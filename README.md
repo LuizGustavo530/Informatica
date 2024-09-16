@@ -1,6 +1,6 @@
 # Informatica
 
-# Aprendizado por Projeto Integrado (API) - Template 
+# Aprendizado Informática FATEC - São José dos Campos
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
