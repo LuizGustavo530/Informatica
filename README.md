@@ -26,7 +26,7 @@ Identificar e utilizar os recursos básicos ou avançados em ferramentas adequad
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
- | dd/mm/aaaa |  
+        | dd/mm/aaaa |  
 |01 | dd/mm/aaaa | 
 |02|  dd/mm/aaaa| 
 |03| dd/mm/aaaa |  
