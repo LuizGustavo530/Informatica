@@ -10,13 +10,9 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 # Índice
 
 * [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 # Projeto Informática (GPI)
