@@ -40,7 +40,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Sistema Operacional
 * Redes e Sistema Distribuídos. 
 * Segurança da Informação
-* Internet. Editor de Texto
+* Internet. Editor de Texto 
 *  Editor de Apresentações
 * Editor de Planilhas.
 * Banco de Dados
