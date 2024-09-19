@@ -50,7 +50,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Soft Skill (saber comportamental)
 <details>
-<summary>Soft Skills desenvolvidas<>
+<summary>Soft Skills desenvolvidas< https://github.com/LuizGustavo530/Informatica/blob/27eef29b8c15a0e018b4068808ad6f20f4333f63/Luiz%20Gustavo%20atividade%201.xlsx >
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -69,5 +69,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Product Owner |  Luiz Gustavo     |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
 
 
-Trabalhos Realizado
+
 
