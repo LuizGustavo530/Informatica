@@ -50,7 +50,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Soft Skill (saber comportamental)
 <details>
-<summary>Soft Skills desenvolvidas</summary>
+<summary>Soft Skills desenvolvidas<>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
