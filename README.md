@@ -38,7 +38,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Conceitos de hardware e software
 * Organizar e estruturar as informações;
 * Sistema Operacional
-* Redes e Sistema Distribuídos.
+* Redes e Sistema Distribuídos. 
 * Segurança da Informação
 * Internet. Editor de Texto
 *  Editor de Apresentações
