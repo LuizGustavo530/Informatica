@@ -20,7 +20,7 @@ Identificar e utilizar os recursos básicos ou avançados em ferramentas adequad
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | 
+|Kick Off | 19/09/2024 | 
 |01 | dd/mm/aaaa | 
 |02|  dd/mm/aaaa| 
 |03| dd/mm/aaaa |
