@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 19/09/2024 | 
 |01 | dd/mm/aaaa | 
 |02|  dd/mm/aaaa| 
-|03| dd/mm/aaaa |
+|03| dd/mm/aaaa | 
 |04| dd/mm/aaaa |
 |Feira de Soluções|dd/mm/aaaa 
 
