@@ -17,9 +17,9 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 # Atividades Realizada 
 
-1° Apresentação (Biografia Pessoal) - PowerPoint
-2° Desenvolvimento em Planilhas - Excel
-3° Desenvolvimento planinhas criativa - Power Bi
+* 1° Apresentação (Biografia Pessoal) - PowerPoint
+* 2° Desenvolvimento em Planilhas - Excel
+* 3° Desenvolvimento planinhas criativa - Power Bi
 
 # Projeto Informática (GPI)
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
@@ -37,7 +37,7 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
-# Biografia
+# Biografia (Pessoal)
 ![1](https://github.com/user-attachments/assets/4cd09ef0-e66d-4c85-86fc-45ac92407cac)
 
 
