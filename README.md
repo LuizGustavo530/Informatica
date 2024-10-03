@@ -32,7 +32,9 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
-# Equipe
+# Biografia
+![1](https://github.com/user-attachments/assets/4cd09ef0-e66d-4c85-86fc-45ac92407cac)
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
