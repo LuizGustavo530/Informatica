@@ -14,10 +14,12 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores
 
 # Atividades Realizada 
 
+1° Apresentação (Biografia Pessoal) - PowerPoint
+2° Desenvolvimento em Planilhas - Excel
+3° Desenvolvimento planinhas criativa - Power Bi
 
 # Projeto Informática (GPI)
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
