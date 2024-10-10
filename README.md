@@ -19,7 +19,7 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 * 1° Apresentação (Biografia Pessoal) - PowerPoint
 * 2° Desenvolvimento em Planilhas - Excel
-* 3° Desenvolvimento planinhas criativa - Power Bi
+* 3° Desenvolvimento planinhas criativa - Power Bi (https://github.com/LuizGustavo530/Informatica/commit/900a10587a470dec8f410150c49d0528929b1434)
 
 # Projeto Informática (GPI)
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
