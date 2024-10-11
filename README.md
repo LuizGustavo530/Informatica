@@ -25,9 +25,9 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 Atividades | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 19/08/2024 |Entregue |(https://github.com/LuizGustavo530/Informatica/blob/d0b30c437bace61aa61e492a8dc7a1464fb517bd/Informatica%20Luiz%20Gustavo%202.xls)
-|02|  03/10/2024| 
-|03| 10/10/2024 | 
+|01 | 19/08/2024| Entregue | Desenvolvineto e criação do Github
+|02|  03/10/2024| Entregue | Desenvolvimento com dados aberto no Excel
+|03| 10/10/2024 | Entregue | Desenvolvimneto PowerBi - Dados Abertos 
 |04| dd/mm/aaaa |
 |Feira de Soluções|dd/mm/aaaa 
 
