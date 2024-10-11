@@ -25,7 +25,7 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 Atividades | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 19/08/2024 |  ok   002120
+|01 | 19/08/2024 |  ok   002120              00210
 |02|  03/10/2024| 
 |03| 10/10/2024 | 
 |04| dd/mm/aaaa |
