@@ -21,10 +21,9 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 * 2° Desenvolvimento em Planilhas - Excel (https://github.com/LuizGustavo530/Informatica/blob/d0b30c437bace61aa61e492a8dc7a1464fb517bd/Informatica%20Luiz%20Gustavo%202.xls)
 * 3° Desenvolvimento planinhas criativa - Power Bi (https://github.com/LuizGustavo530/Informatica/commit/900a10587a470dec8f410150c49d0528929b1434)
 
-# Projeto Informática (GPI)
-Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
 
-Sprint | Previsão | Status| Histórico|
+
+Atividades | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 19/09/2024 | 
 |02|  03/10/2024| 
