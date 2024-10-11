@@ -26,7 +26,7 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 Atividades | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 19/08/2024| Entregue | Desenvolvineto e criação do Github
+|01 | 19/08/2024| Entregue | Desenvolvineto e criação do Github/Aprersentação 
 |02|  03/10/2024| Entregue | Desenvolvimento com dados aberto no Excel
 |03| 10/10/2024 | Entregue | Desenvolvimneto PowerBi - Dados Abertos 
 |04| dd/mm/aaaa |
