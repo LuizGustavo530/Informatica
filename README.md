@@ -25,9 +25,9 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 Atividades | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 19/09/2024 | 
+|01 | 19/08/2024 | 
 |02|  03/10/2024| 
-|03| dd/mm/aaaa | 
+|03| 10/m10/2024 | 
 |04| dd/mm/aaaa |
 |Feira de Soluções|dd/mm/aaaa 
 
