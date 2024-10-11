@@ -25,7 +25,8 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 
 Atividades | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | 19/08/2024 |Entregue |(https://github.com/LuizGustavo530/Informatica/blob/d0b30c437bace61aa61e492a8dc7a1464fb517bd/Informatica%20Luiz%20Gustavo%202.xls)
+|01 | 19/08/2024 |Entregue |(https://github.com/LuizGustavo530/Informatica/blob/d0b30c437bace6
+1aa61e492a8dc7a1464fb517bd/Informatica%20Luiz%20Gustavo%202.xls)
 |02|  03/10/2024| 
 |03| 10/10/2024 | 
 |04| dd/mm/aaaa |
