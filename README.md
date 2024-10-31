@@ -30,7 +30,9 @@ Atividades | Previsão | Status| Histórico|
 |02|  03/10/2024| Entregue | Desenvolvimento com dados aberto no Excel
 |03| 10/10/2024 | Entregue | Desenvolvimneto PowerBi - Dados Abertos 
 |04| dd/mm/aaaa |
-|Feira de Soluções|dd/mm/aaaa 
+|05| dd/mm/aaaa |
+|06| dd/mm/aaaa |
+
 
 
 
