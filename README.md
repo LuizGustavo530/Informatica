@@ -20,7 +20,7 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 * 1° Apresentação (Biografia Pessoal) - PowerPoint/Canvas
 * 2° Desenvolvimento em Planilhas - Excel (https://github.com/LuizGustavo530/Informatica/blob/d0b30c437bace61aa61e492a8dc7a1464fb517bd/Informatica%20Luiz%20Gustavo%202.xls)
 * 3° Desenvolvimento planinhas criativa - Power Bi (https://github.com/LuizGustavo530/Informatica/commit/900a10587a470dec8f410150c49d0528929b1434)
- 
+* 4° Desenvolvimento criativo - KPI(PowerBi) (https://github.com/LuizGustavo530/Informatica/blob/main/Banco%20de%20dados%201.pbix)
 
 # Cronograma das Atividades Realizadas 
 
