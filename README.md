@@ -21,6 +21,7 @@ Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribu�
 * 2° Desenvolvimento em Planilhas - Excel (https://github.com/LuizGustavo530/Informatica/blob/d0b30c437bace61aa61e492a8dc7a1464fb517bd/Informatica%20Luiz%20Gustavo%202.xls)
 * 3° Desenvolvimento planinhas criativa - Power Bi (https://github.com/LuizGustavo530/Informatica/commit/900a10587a470dec8f410150c49d0528929b1434)
 * 4° Desenvolvimento criativo - KPI(PowerBi) (https://github.com/LuizGustavo530/Informatica/blob/main/Banco%20de%20dados%201.pbix)
+* 5° Avaliação - Teste de Conhecimentos adquiridos 
 
 # Cronograma das Atividades Realizadas 
 
@@ -29,8 +30,8 @@ Atividades | Previsão | Status| Histórico|
 |01 | 19/08/2024| Entregue | Desenvolvineto e criação do Github/Aprersentação 
 |02|  03/10/2024| Entregue | Desenvolvimento com dados aberto no Excel
 |03| 10/10/2024 | Entregue | Desenvolvimneto PowerBi - Dados Abertos 
-|04| dd/mm/aaaa |
-|05| dd/mm/aaaa |
+|04| 21/11/2024 | Entregue | Desenvolvimento geral (Simulado da Avaliação Geral
+|05| 28/11/2024 | Entregue | Avaliação Geral - Teste de Conhecimento adquirido
 
 
 
