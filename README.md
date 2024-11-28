@@ -1,6 +1,6 @@
 # Informatica
 
-# Aprendizado Informática FATEC - São José dos Campos 
+# Aprendizado Informática FATEC - São José dos Campos  
 
 
 Conceitos de hardware e software. Sistema Operacional. Redes e Sistema Distribuídos. Segurança da Informação. Internet. Editor de Texto. Editor de Apresentações. Editor de Planilhas. Banco de Dados. Criação de Home Pages. Outras Tecnologia e Ferramentas de Interesse
